@@ -1,6 +1,6 @@
 //The first section was my actual challenge that I'll be submitting. 
 
-// let words1 = {word1: 'milk', word2: 'racecar'}
+let words1 = {word1: 'milk', word2: 'racecar'}
 // let words2 = {word1: '', word2: ''}
 
 // let wordFlip1 = () => words2.word1 = ((words1.word1.split("")).reverse()).join("");
